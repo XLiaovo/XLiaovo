@@ -44,10 +44,10 @@ From my initial exploration of web security testing to today's web application a
 [![XLiaovo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=XLiaovo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![XLiaovo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=XLiaovo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=XLiaovo&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=XLiaovo&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/XLiaovo/count.svg)
 
 ## 🎮🕹 Games
 
