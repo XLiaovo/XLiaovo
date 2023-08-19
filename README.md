@@ -59,6 +59,8 @@ From my initial exploration of web security testing to today's web application a
 
 - Nothing Here
 
+***
+
 <p align="center">
   Looking forward to your ⭐️ Star!
 </p>
