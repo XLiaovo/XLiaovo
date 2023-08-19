@@ -1,4 +1,4 @@
- <img src="https://github-readme-stats.vercel.app/api?username=XLiaovo&hide=issues&title_color=333&text_color=777" alt="XLiaovo's Stats" >
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XLiaovo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XLiaovo/XLiaovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
