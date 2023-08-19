@@ -51,9 +51,9 @@ From my initial exploration of web security testing to today's web application a
 
 ## 🎮🕹 Games
 
-[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
-[<img src="https://img.shields.io/badge/PUBG-orange.svg?&style=for-the-badge&logo=pubg&logoColor=white" />](https://jeel/)
+[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/PUBG-orange.svg?&style=for-the-badge&logo=pubg&logoColor=white" />](#)
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Connect with me
 
