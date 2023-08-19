@@ -59,4 +59,8 @@ From my initial exploration of web security testing to today's web application a
 
 - Nothing Here
 
+<p align="center">
+  Looking forward to your ⭐️ Star!
+</p>
+
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
