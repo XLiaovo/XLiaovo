@@ -2,8 +2,11 @@
 
 <div align="center">
 	<br>
-	<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
- </div>
+	<p align="center">
+		<img src="https://i.imgur.com/A6bWGFl.gif"/>
+	</p>
+	
+</div>
 
 ## 🧐 About Me
 
@@ -38,11 +41,19 @@ From my initial exploration of web security testing to today's web application a
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![XLiaovo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=XLiaovo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![XLiaovo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=XLiaovo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
 
 ## 🎮🕹 Games
 
 [<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
 [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
 [<img src="https://img.shields.io/badge/PUBG-orange.svg?&style=for-the-badge&logo=pubg&logoColor=white" />](https://jeel/)
+
+## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Connect with me
+
+- Nothing Here
+
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
